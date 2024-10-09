@@ -1,5 +1,5 @@
 # Project Feedback and Voting
-Project proposals from all students are availabe.
+Project proposals from all students are available.
 
 
 ## While doing your whiteboard presentation - Create and issue for your proposal
